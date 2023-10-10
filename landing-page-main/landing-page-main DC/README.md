@@ -1,9 +1,29 @@
 # Landing Page Project
+A static landing page that is made dynamic by using javascript
 
-## Instructions
+# Table of Content
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+-[Landing Page Project](#project-title)
+-[Table of Contents](#table-of-contents)
+-[Usage](#usage)
+-[Development](#development)
+-[Contribute](#contribute)
+-[License](#license)
 
-To get started, open `js/app.js` and start building out the app's functionality
+# usage
+to make a dynamic landing page
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+[(Back to top)](#table-of-contents)
+
+# development
+Javascript, HTML, CSS
+
+[(Back to top)](#table-of-contents)
+
+# contribute
+Udacity Front End Nano Degree program
+
+[(Back to top)](#table-of-contents)
+
+# License
+[(Back to top)](#table-of-contents)
